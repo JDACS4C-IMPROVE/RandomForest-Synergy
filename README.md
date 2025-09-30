@@ -2,7 +2,7 @@
 
 ---
 
-This repository demonstrates how to use the [IMPROVE library](https://jdacs4c-improve.github.io/docs/) for building a synergy prediction model using DeepDDS.
+This repository demonstrates how to use the [IMPROVE library](https://jdacs4c-improve.github.io/docs/) for building a synergy prediction model using Random Forest.
 
 
 ## Dependencies
